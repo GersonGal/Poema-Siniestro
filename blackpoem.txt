@@ -22,3 +22,7 @@ But the rainbow is still full of colors.
 And FIME is green.
 
 The end
+Este es un fork de la actividad 2 
+Gerson Josue Gallegos Lopez 
+Matricula 1605239
+end x2
